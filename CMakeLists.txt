@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(Files3)
+add_executable(files3 FileName.cpp Figure.cpp Figure.h Triangle.cpp Triangle.h equilateral_triangle.h equilateral_triangle.cpp isosceles_triangle.h isosceles_triangle.cpp right_triangle.h right_triangle.cpp Quadrilateral.cpp Quadrilateral.h parallelogram.cpp parallelogram.h rhombus.cpp rhombus.h rectangle.h rectangle.cpp rhombus.h rhombus.cpp square.cpp square.h )
